@@ -1,10 +1,10 @@
 # 2401010177-Lab-Assignment-1
-Student Record Management (Java)
+**Student Record Management (Java)**
 
 This is a simple Java console application for managing student records.
 It demonstrates Object-Oriented Programming concepts such as inheritance, constructors, and the use of ArrayList.
 
-Features
+**Features**
 
 Add student details (name, roll number, course, marks)
 
@@ -14,7 +14,7 @@ Display all student records
 
 Menu-driven system with options to add, display, or exit
 
-How to Run
+**How to Run**
 
 Compile the program
 
@@ -22,7 +22,7 @@ Run the application
 
 Use the menu to add or view student records
 
-Example
+**Example**
 
 Enter student details (name, roll number, course, marks)
 
@@ -30,7 +30,7 @@ Grade is automatically calculated (A, B, C, D)
 
 Records can be displayed anytime
 
-Future Improvements
+**Future Improvements**
 
 Search student by roll number
 
