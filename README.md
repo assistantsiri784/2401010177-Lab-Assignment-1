@@ -1,5 +1,5 @@
 # 2401010177-Lab-Assignment-1
-##Student Record Management (Java)
+## Student Record Management (Java)
 
 This is a simple Java console application for managing student records.
 It demonstrates Object-Oriented Programming concepts such as inheritance, constructors, and the use of ArrayList.
